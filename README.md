@@ -12,8 +12,8 @@ You can find the list of all frameworks that have been tested in the table below
 
 | Framework Name | Version | Status   | Date Tested | Notes        |
 |----------------|---------|----------|-------------|--------------|
-| Cosmosgraph | 1.0.0   | Passed   | 2025-02-18  | Fast rendering |
-| Next.js AI Chatbot | 2.3.4   | Failed   | 2025-02-15  | Issues with SSR |
+| Cosmosgraph | 1.0.0   | Passed   | 2025-02-18  | Output Graph view |
+| Next.js AI Chatbot | 2.3.4   | Failed   | 2025-02-15  | Chat interface |
 
 > **Note:** You can replace this table with your own list of tested frameworks.
 
